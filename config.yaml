@@ -112,7 +112,7 @@ output:
 
 campaign_settings:
   target_cpa: 800   # INR
-  conversion_rate: 0.02  # 2%
+  conversion_rate: 0.02  # 2% as required
 
 advanced:
   exclude_terms:
@@ -132,4 +132,4 @@ advanced:
     - "test drive"
     - "near me"
 
-  match_type_strategy: "intelligent"  # conservative | intelligent | aggressive
+  match_type_strategy: "intelligent"  # We have conservative | intelligent | aggressive options
