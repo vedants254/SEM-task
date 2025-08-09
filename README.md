@@ -1,6 +1,6 @@
 # SEM Keyword research tool
 
-## NOTE : You need to manually solve captcha in browser as its protected with reCaptcha. Scrapping will be automatically done within couple of seconds according to used WordStream's page structure. For additional help, I have attached a video run of this task. Check it out here: 
+## NOTE : You need to manually click and process the captcha in (Only Chrome supported for testing ) as its protected with reCaptcha. Scrapping will be automatically done within couple of seconds according to used WordStream's page structure. For additional help, I have attached a video run of this task. Check it out here: 
 ## Quick Start
 
 1. **Install Dependencies**
@@ -143,7 +143,8 @@ python shopping_cpc_bids.py
 
 **"Node.js not found"**
 - Install from https://nodejs.org/
-
+**"Scrapper not working"**
+- Please install chrome latest version (as made for chrome CDP)
 **"No keywords found"** 
 - Check internet connection
 - Verify URLs in config.yaml
@@ -191,7 +192,7 @@ python shopping_cpc_bids.py
 - **Python** 3.7+ (for processing)
 - **Memory**: 2GB+ recommended
 - **Network**: Stable internet for scraping
-
+- **Chrome**: For CDP support to the scrapper
 ## Example Output
 
 ```csv
