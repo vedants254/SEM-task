@@ -1,0 +1,356 @@
+{
+  "brand": [
+    {
+      "keyword": "kia seltos",
+      "avg_monthly_searches": 1500000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.79,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia carens",
+      "avg_monthly_searches": 673000,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 2.42,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia sonet",
+      "avg_monthly_searches": 550000,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.47,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia cars",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "auto kia",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia automatic cars",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia motors cars",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "cars from kia",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "automotive kia",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia cars car",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia car kia",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia cars kia cars",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia auto cars",
+      "avg_monthly_searches": 301000,
+      "top_page_bid_low": 0.05,
+      "top_page_bid_high": 2.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia seltos price",
+      "avg_monthly_searches": 165000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.87,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia carens price",
+      "avg_monthly_searches": 110000,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 5.85,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia seltos on road price",
+      "avg_monthly_searches": 110000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 2.42,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia car price",
+      "avg_monthly_searches": 90500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 4.54,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia carens on road price",
+      "avg_monthly_searches": 90500,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 3.46,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia automatic price",
+      "avg_monthly_searches": 90500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 4.54,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia car cost",
+      "avg_monthly_searches": 90500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 4.54,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia cars and prices",
+      "avg_monthly_searches": 90500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 4.54,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia vehicle price",
+      "avg_monthly_searches": 90500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 4.54,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia price car",
+      "avg_monthly_searches": 90500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 4.54,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia carnival price",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.21,
+      "competition": "Low"
+    },
+    {
+      "keyword": "kia carnival cost",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.21,
+      "competition": "Low"
+    }
+  ],
+  "competitor": [
+    {
+      "keyword": "honda city",
+      "avg_monthly_searches": 368000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.36,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda elevate",
+      "avg_monthly_searches": 368000,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 0.19,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda amaze",
+      "avg_monthly_searches": 368000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.48,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city price",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 0.44,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city on road price",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.41,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city automatic price",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 0.44,
+      "competition": "Low"
+    },
+    {
+      "keyword": "cost of honda city",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 0.44,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city car on road price",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.41,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city rate",
+      "avg_monthly_searches": 74000,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 0.44,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city 2025",
+      "avg_monthly_searches": 60500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 0.3,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda jazz",
+      "avg_monthly_searches": 49500,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.16,
+      "competition": "Low"
+    },
+    {
+      "keyword": "amaze car",
+      "avg_monthly_searches": 49500,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.35,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda service centres near me",
+      "avg_monthly_searches": 49500,
+      "top_page_bid_low": 0.15,
+      "top_page_bid_high": 0.77,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city 2024",
+      "avg_monthly_searches": 49500,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.24,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda near by me",
+      "avg_monthly_searches": 49500,
+      "top_page_bid_low": 0.17,
+      "top_page_bid_high": 1.44,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda jazz honda",
+      "avg_monthly_searches": 49500,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.16,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda crv",
+      "avg_monthly_searches": 40500,
+      "top_page_bid_low": 0.2,
+      "top_page_bid_high": 0.25,
+      "competition": "Low"
+    },
+    {
+      "keyword": "new honda amaze",
+      "avg_monthly_searches": 40500,
+      "top_page_bid_low": 0.02,
+      "top_page_bid_high": 0.44,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda india",
+      "avg_monthly_searches": 33100,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.12,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city car",
+      "avg_monthly_searches": 33100,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.32,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda car company",
+      "avg_monthly_searches": 33100,
+      "top_page_bid_low": 0.06,
+      "top_page_bid_high": 0.32,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda city automatic",
+      "avg_monthly_searches": 33100,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.32,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda auto india",
+      "avg_monthly_searches": 33100,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.12,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda automobile india",
+      "avg_monthly_searches": 33100,
+      "top_page_bid_low": 0.03,
+      "top_page_bid_high": 0.12,
+      "competition": "Low"
+    },
+    {
+      "keyword": "honda civic price in india",
+      "avg_monthly_searches": 27100,
+      "top_page_bid_low": 0.01,
+      "top_page_bid_high": 0.1,
+      "competition": "Low"
+    }
+  ]
+}

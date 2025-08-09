@@ -1,0 +1,11 @@
+# Python dependencies and cache
+/venv/
+/__pycache__/
+*.pyc
+
+# Node.js dependencies
+/node_modules/
+
+# os files
+.DS_Store
+Thumbs.db

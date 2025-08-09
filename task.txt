@@ -1,0 +1,42 @@
+1. Keyword List Grouped by Ad Groups (Search Campaign) 
+● Segment keywords by logical intent and product/service type. 
+● Example Ad Groups: 
+○ Brand Terms 
+○ Category Terms 
+○ Competito
+│    deliverable in that txt file                                                                                                         │r Terms 
+○ Location-based Queries 
+○ Long-Tail Informational Queries 
+Each ad group should contain: 
+● Final list of filtered keywords 
+● Suggested match types (Broad Match Modifier, Phrase, Exact) 
+● Suggested CPC range based on bid benchmarks.
+
+2. Keyword List Grouped by Ad Groups (Search Campaign) 
+● Segment keywords by logical intent and product/service type. 
+● Example Ad Groups: 
+○ Brand Terms 
+○ Category Terms 
+○ Competitor Terms 
+○ Location-based Queries 
+○ General Queries 
+Each ad group should contain: 
+● Final list of filtered keywords 
+● Suggested match types (Broad Match Modifier, Phrase, Exact) 
+● Suggested CPC range based on bid benchmarks 
+2. Search Themes for Performance Max Campaign 
+Use high-performing keyword categories to guide asset group themes: 
+● Product Category Themes (e.g. "Vegan Protein Powder") 
+● Use-case Based Themes (e.g. "Post-Workout Recovery Drinks") 
+● Demographic Themes (e.g. "For Busy Professionals") 
+● Seasonal/Event-Based Themes (e.g. "Back to School Wellness") 
+3. Suggested CPC Bids for Manual Shopping Campaign 
+Based on: 
+● Top of Page Bid (Low & High Range) 
+● Competition Levels 
+● Your Shopping Ads Budget 
+● Expected Conversion Rate of 2% 
+Calculate: 
+● Target CPC = (Target CPA) * (Conversion Rate) 
+● Prioritize high-converting, high-volume products with competitive but profitable CPC 
+bids.

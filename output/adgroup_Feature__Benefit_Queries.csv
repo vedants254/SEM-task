@@ -1,0 +1,9 @@
+keyword,ad_group,match_type,avg_monthly_searches,competition,suggested_cpc,suggested_cpc_range,high_priority,source
+kia carens price,Feature & Benefit Queries,Exact,110000,Low,2.84,₹1.00 - ₹4.68,True,brand
+kia car price,Feature & Benefit Queries,Exact,90500,Low,2.32,₹1.00 - ₹3.63,True,brand
+kia carens on road price,Feature & Benefit Queries,Phrase,90500,Low,1.88,₹1.00 - ₹2.77,True,brand
+kia automatic price,Feature & Benefit Queries,Exact,90500,Low,2.32,₹1.00 - ₹3.63,True,brand
+kia cars and prices,Feature & Benefit Queries,Phrase,90500,Low,2.32,₹1.00 - ₹3.63,True,brand
+kia vehicle price,Feature & Benefit Queries,Exact,90500,Low,2.32,₹1.00 - ₹3.63,True,brand
+honda service centres near me,Feature & Benefit Queries,Phrase,49500,Low,0.81,₹1.00 - ₹0.62,True,competitor
+honda civic price in india,Feature & Benefit Queries,Phrase,27100,Low,0.54,₹1.00 - ₹0.08,True,competitor

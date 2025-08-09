@@ -1,0 +1,9 @@
+keyword,ad_group,match_type,avg_monthly_searches,competition,suggested_cpc,suggested_cpc_range,high_priority,source
+kia seltos,Brand Terms - Kia,Exact,1500000,Low,0.82,₹1.00 - ₹0.63,False,brand
+kia sonet,Brand Terms - Kia,Exact,550000,Low,0.69,₹1.00 - ₹0.38,False,brand
+kia motors cars,Brand Terms - Kia,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+kia seltos price,Brand Terms - Kia,Exact,165000,Low,0.85,₹1.00 - ₹0.70,True,brand
+kia seltos on road price,Brand Terms - Kia,Exact,110000,Low,1.47,₹1.00 - ₹1.94,True,brand
+kia price car,Brand Terms - Kia,Exact,90500,Low,2.32,₹1.00 - ₹3.63,True,brand
+kia carnival price,Brand Terms - Kia,Exact,74000,Low,0.58,₹1.00 - ₹0.17,True,brand
+kia carnival cost,Brand Terms - Kia,Exact,74000,Low,0.58,₹1.00 - ₹0.17,False,brand

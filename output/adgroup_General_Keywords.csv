@@ -1,0 +1,18 @@
+keyword,ad_group,match_type,avg_monthly_searches,competition,suggested_cpc,suggested_cpc_range,high_priority,source
+kia carens,General Keywords,Exact,673000,Low,1.47,₹1.00 - ₹1.94,False,brand
+kia cars,General Keywords,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+auto kia,General Keywords,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+cars from kia,General Keywords,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+automotive kia,General Keywords,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+kia cars car,General Keywords,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+kia car kia,General Keywords,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+kia cars kia cars,General Keywords,Phrase,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+kia auto cars,General Keywords,Exact,301000,Low,1.61,₹1.00 - ₹2.22,False,brand
+kia car cost,General Keywords,Exact,90500,Low,2.32,₹1.00 - ₹3.63,False,brand
+amaze car,General Keywords,Exact,49500,Low,0.64,₹1.00 - ₹0.28,False,competitor
+honda near by me,General Keywords,Phrase,49500,Low,1.08,₹1.00 - ₹1.15,False,competitor
+honda crv,General Keywords,Exact,40500,Low,0.6,₹1.00 - ₹0.20,False,competitor
+honda india,General Keywords,Exact,33100,Low,0.55,₹1.00 - ₹0.10,False,competitor
+honda car company,General Keywords,Exact,33100,Low,0.63,₹1.00 - ₹0.26,False,competitor
+honda auto india,General Keywords,Exact,33100,Low,0.55,₹1.00 - ₹0.10,False,competitor
+honda automobile india,General Keywords,Exact,33100,Low,0.55,₹1.00 - ₹0.10,False,competitor

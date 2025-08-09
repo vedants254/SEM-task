@@ -1,0 +1,24 @@
+{
+  "name": "wordstream-keyword-research",
+  "version": "1.0.0",
+  "description": "Production-ready WordStream keyword scraper for SEM campaigns",
+  "main": "wordstream_scraper.js",
+  "scripts": {
+    "start": "node wordstream_scraper.js",
+    "install-deps": "npm install puppeteer-extra puppeteer-extra-plugin-stealth js-yaml"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "puppeteer": "^24.16.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "keywords": [
+    "keyword-research",
+    "sem",
+    "wordstream",
+    "automation"
+  ],
+  "author": "SEM Research Tool",
+  "license": "MIT"
+}

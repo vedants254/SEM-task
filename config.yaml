@@ -1,0 +1,135 @@
+# WordStream Keyword Research Configuration
+# Kia Motors India vs Honda Cars India - Search Campaign Segmentation
+
+brand:
+  url: "kia.com/in"
+  name: "Kia Motors India"
+
+competitor:
+  url: "hondacarindia.com"
+  name: "Honda Cars India"
+
+# Service Locations for Ad Grouping
+service_locations:
+  - "Mumbai"
+  - "Delhi"
+  - "Bangalore"
+  - "Chennai"
+  - "Pune"
+  - "Hyderabad"
+  - "Kolkata"
+  - "Ahmedabad"
+
+# Category Terms segmented into Ad Groups
+category_terms:
+
+  # Brand Terms - Kia
+  - "kia india"
+  - "kia motors"
+  - "kia seltos"
+  - "kia sonet"
+  - "kia carnival"
+  - "kia ev6"
+  - "kia price"
+  - "kia showroom"
+
+  # Brand Terms - Honda
+  - "honda cars india"
+  - "honda amaze"
+  - "honda city"
+  - "honda wr-v"
+  - "honda elevate"
+  - "honda jazz"
+  - "honda price"
+  - "honda showroom"
+
+  # Category Terms (Generic car buying searches)
+  - "suv in india"
+  - "best sedan 2025"
+  - "hatchback under 10 lakhs"
+  - "electric car in india"
+  - "luxury cars"
+  - "automatic cars"
+  - "diesel suv"
+  - "petrol hatchback"
+
+  # Competitor Terms
+  - "maruti suzuki cars"
+  - "hyundai cars"
+  - "toyota india"
+  - "tata motors"
+  - "mahindra cars"
+  - "mg motor india"
+
+  # Location-based Queries
+  - "car showroom near me"
+  - "kia showroom mumbai"
+  - "honda showroom delhi"
+  - "car dealers in bangalore"
+  - "test drive in pune"
+
+  # Long-Tail Informational Queries
+  - "kia seltos mileage petrol vs diesel"
+  - "honda city vs kia seltos comparison"
+  - "which is better kia sonet or honda elevate"
+  - "maintenance cost of kia carnival"
+  - "best family suv in india 2025"
+
+  # Occasion & Use Case Queries
+  - "wedding car rental kia"
+  - "long drive car kia seltos"
+  - "festival car offers kia"
+  - "family road trip honda elevate"
+  - "corporate fleet cars"
+
+  # Feature & Benefit Queries
+  - "best mileage suv"
+  - "sunroof car under 15 lakhs"
+  - "safest cars in india"
+  - "largest boot space suv"
+  - "latest connected car features"
+
+filters:
+  min_search_volume: 500
+  max_cpc_threshold: 200  # INR
+
+budgets:
+  shopping_ads: 200000
+  search_ads: 300000
+  pmax_ads: 500000
+
+scraping:
+  headless: false  #you can set this to true for production level deployment
+  timeout: 60000
+  retry_attempts: 3
+  delay_between_requests: 3000
+
+output:
+  main_file: "keyword_research_results.csv"
+  create_individual_adgroup_files: true
+  save_raw_data: true
+  raw_data_file: "raw_keywords_data_kia_vs_honda.json"
+
+campaign_settings:
+  target_cpa: 800   # INR
+  conversion_rate: 0.02  # 2%
+
+advanced:
+  exclude_terms:
+    - "job"
+    - "career"
+    - "review"
+    - "wikipedia"
+    - "wiki"
+    - "specification"
+    - "manual pdf"
+
+  high_priority_terms:
+    - "price"
+    - "buy"
+    - "offer"
+    - "booking"
+    - "test drive"
+    - "near me"
+
+  match_type_strategy: "intelligent"  # conservative | intelligent | aggressive
